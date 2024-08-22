@@ -1,0 +1,1577 @@
+[
+  {
+    "ContainingType": "OTA_Portal_Service.Controllers.HomeController",
+    "Method": "AddBlogsAndNews",
+    "RelativePath": "api/Home/AddBlogsAndNews",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userRole",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "title",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "localTitle",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Description",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "localDescription",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "imageUrl",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "image",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      },
+      {
+        "Name": "dates",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      },
+      {
+        "Name": "status",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OTA_Portal_Service.Controllers.HomeController",
+    "Method": "AddComments",
+    "RelativePath": "api/Home/AddComments",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "fullName",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "localFullName",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "email",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "subject",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "localSubject",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "body",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "image",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      },
+      {
+        "Name": "imageUrl",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "localBody",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "status",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "blogId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OTA_Portal_Service.Controllers.HomeController",
+    "Method": "AddContactUs",
+    "RelativePath": "api/Home/AddContactUs",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "contactUsPostDto",
+        "Type": "OTA_Portal_Service.Models.DTOs.contactUsPostDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OTA_Portal_Service.Controllers.HomeController",
+    "Method": "AddGoals",
+    "RelativePath": "api/Home/AddGoals",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "goalPostDto",
+        "Type": "OTA_Portal_Service.Models.DTOs.goalPostDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OTA_Portal_Service.Controllers.HomeController",
+    "Method": "AddMission",
+    "RelativePath": "api/Home/AddMission",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "missionPost",
+        "Type": "OTA_Portal_Service.Models.DTOs.missionPostDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OTA_Portal_Service.Controllers.HomeController",
+    "Method": "AddRule",
+    "RelativePath": "api/Home/AddRule",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "rulePostDto",
+        "Type": "OTA_Portal_Service.Models.DTOs.RulePostDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OTA_Portal_Service.Controllers.HomeController",
+    "Method": "AddService",
+    "RelativePath": "api/Home/AddService",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "title",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "localTitle",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Description",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "localDescription",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "logo",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      },
+      {
+        "Name": "logopath",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "status",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OTA_Portal_Service.Controllers.HomeController",
+    "Method": "AddSlide",
+    "RelativePath": "api/Home/AddSlide",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "title",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "localTitle",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Description",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "localDescription",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "image",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      },
+      {
+        "Name": "imagePath",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "status",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OTA_Portal_Service.Controllers.HomeController",
+    "Method": "AddTeamMember",
+    "RelativePath": "api/Home/AddTeamMember",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "fullName",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "localFullName",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "position",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "localPosition",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "status",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "image",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      },
+      {
+        "Name": "imageUrl",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OTA_Portal_Service.Controllers.HomeController",
+    "Method": "AddTestimonies",
+    "RelativePath": "api/Home/AddTestimonies",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "fullName",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "position",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Description",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "image",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      },
+      {
+        "Name": "imageUrl",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "status",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "localDescription",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "localFullName",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "localPosition",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OTA_Portal_Service.Controllers.HomeController",
+    "Method": "AddVision",
+    "RelativePath": "api/Home/AddVision",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "visionPostDto",
+        "Type": "OTA_Portal_Service.Models.DTOs.VisionPostDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OTA_Portal_Service.Controllers.HomeController",
+    "Method": "ApproveBlogsAndNewsById",
+    "RelativePath": "api/Home/ApproveBlogsAndNewsById",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OTA_Portal_Service.Controllers.HomeController",
+    "Method": "ApproveGoalsById",
+    "RelativePath": "api/Home/ApproveGoalsById",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OTA_Portal_Service.Controllers.HomeController",
+    "Method": "ApproveMissionById",
+    "RelativePath": "api/Home/ApproveMissionById",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OTA_Portal_Service.Controllers.HomeController",
+    "Method": "ApproveRuleById",
+    "RelativePath": "api/Home/ApproveRuleById",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OTA_Portal_Service.Controllers.HomeController",
+    "Method": "ApproveServiceById",
+    "RelativePath": "api/Home/ApproveServiceById",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OTA_Portal_Service.Controllers.HomeController",
+    "Method": "ApproveSlidesById",
+    "RelativePath": "api/Home/ApproveSlidesById",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OTA_Portal_Service.Controllers.HomeController",
+    "Method": "ApproveTeamMemberById",
+    "RelativePath": "api/Home/ApproveTeamMemberById",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OTA_Portal_Service.Controllers.HomeController",
+    "Method": "ApproveTestimonyById",
+    "RelativePath": "api/Home/ApproveTestimonyById",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OTA_Portal_Service.Controllers.HomeController",
+    "Method": "ApproveVisionById",
+    "RelativePath": "api/Home/ApproveVisionById",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OTA_Portal_Service.Controllers.HomeController",
+    "Method": "DeleteBlogsAndNewsById",
+    "RelativePath": "api/Home/DeleteBlogsAndNewsById",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OTA_Portal_Service.Controllers.HomeController",
+    "Method": "DeleteCommentsById",
+    "RelativePath": "api/Home/DeleteCommentsById",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OTA_Portal_Service.Controllers.HomeController",
+    "Method": "DeleteContactUsById",
+    "RelativePath": "api/Home/DeleteContactUsById",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OTA_Portal_Service.Controllers.HomeController",
+    "Method": "DeleteGoalById",
+    "RelativePath": "api/Home/DeleteGoalById",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OTA_Portal_Service.Controllers.HomeController",
+    "Method": "DeleteMissionById",
+    "RelativePath": "api/Home/DeleteMissionById",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OTA_Portal_Service.Controllers.HomeController",
+    "Method": "DeleteRuleById",
+    "RelativePath": "api/Home/DeleteRuleById",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OTA_Portal_Service.Controllers.HomeController",
+    "Method": "DeleteServiceById",
+    "RelativePath": "api/Home/DeleteServiceById",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OTA_Portal_Service.Controllers.HomeController",
+    "Method": "DeleteSlideById",
+    "RelativePath": "api/Home/DeleteSlideById",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OTA_Portal_Service.Controllers.HomeController",
+    "Method": "DeleteTeamMemberById",
+    "RelativePath": "api/Home/DeleteTeamMemberById",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OTA_Portal_Service.Controllers.HomeController",
+    "Method": "DeleteTestimoniesById",
+    "RelativePath": "api/Home/DeleteTestimoniesById",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OTA_Portal_Service.Controllers.HomeController",
+    "Method": "DeleteVisionById",
+    "RelativePath": "api/Home/DeleteVisionById",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OTA_Portal_Service.Controllers.HomeController",
+    "Method": "GetAllBlogs",
+    "RelativePath": "api/Home/GetAllBlogs",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OTA_Portal_Service.Controllers.HomeController",
+    "Method": "GetAllComments",
+    "RelativePath": "api/Home/GetAllComments",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OTA_Portal_Service.Controllers.HomeController",
+    "Method": "GetAllContactUs",
+    "RelativePath": "api/Home/GetAllContactUs",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OTA_Portal_Service.Controllers.HomeController",
+    "Method": "GetAllGoals",
+    "RelativePath": "api/Home/GetAllGoals",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OTA_Portal_Service.Controllers.HomeController",
+    "Method": "GetAllMission",
+    "RelativePath": "api/Home/GetAllMission",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OTA_Portal_Service.Controllers.HomeController",
+    "Method": "GetAllRules",
+    "RelativePath": "api/Home/GetAllRules",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OTA_Portal_Service.Controllers.HomeController",
+    "Method": "GetAllService",
+    "RelativePath": "api/Home/GetAllService",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OTA_Portal_Service.Controllers.HomeController",
+    "Method": "GetAllSlides",
+    "RelativePath": "api/Home/GetAllSlides",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OTA_Portal_Service.Controllers.HomeController",
+    "Method": "GetAllTeamMember",
+    "RelativePath": "api/Home/GetAllTeamMember",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OTA_Portal_Service.Controllers.HomeController",
+    "Method": "GetAllTestimonies",
+    "RelativePath": "api/Home/GetAllTestimonies",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OTA_Portal_Service.Controllers.HomeController",
+    "Method": "GetAllVision",
+    "RelativePath": "api/Home/GetAllVision",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OTA_Portal_Service.Controllers.HomeController",
+    "Method": "GetApprovedBlogsAndNews",
+    "RelativePath": "api/Home/GetApprovedBlogsAndNews",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OTA_Portal_Service.Controllers.HomeController",
+    "Method": "GetApprovedBlogsAndNewsById",
+    "RelativePath": "api/Home/GetApprovedBlogsAndNewsById",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OTA_Portal_Service.Controllers.HomeController",
+    "Method": "GetApprovedGoals",
+    "RelativePath": "api/Home/GetApprovedGoals",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OTA_Portal_Service.Controllers.HomeController",
+    "Method": "GetApprovedGoalsById",
+    "RelativePath": "api/Home/GetApprovedGoalsById",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OTA_Portal_Service.Controllers.HomeController",
+    "Method": "GetApprovedMission",
+    "RelativePath": "api/Home/GetApprovedMission",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OTA_Portal_Service.Controllers.HomeController",
+    "Method": "GetApprovedMissionById",
+    "RelativePath": "api/Home/GetApprovedMissionById",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OTA_Portal_Service.Controllers.HomeController",
+    "Method": "GetApprovedRule",
+    "RelativePath": "api/Home/GetApprovedRule",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OTA_Portal_Service.Controllers.HomeController",
+    "Method": "GetApprovedRuleById",
+    "RelativePath": "api/Home/GetApprovedRuleById",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OTA_Portal_Service.Controllers.HomeController",
+    "Method": "GetApprovedService",
+    "RelativePath": "api/Home/GetApprovedService",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OTA_Portal_Service.Controllers.HomeController",
+    "Method": "GetApprovedServiceById",
+    "RelativePath": "api/Home/GetApprovedServiceById",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OTA_Portal_Service.Controllers.HomeController",
+    "Method": "GetApprovedSlides",
+    "RelativePath": "api/Home/GetApprovedSlides",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OTA_Portal_Service.Controllers.HomeController",
+    "Method": "GetApprovedSlidesById",
+    "RelativePath": "api/Home/GetApprovedSlidesById",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OTA_Portal_Service.Controllers.HomeController",
+    "Method": "GetApprovedTeamMember",
+    "RelativePath": "api/Home/GetApprovedTeamMember",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OTA_Portal_Service.Controllers.HomeController",
+    "Method": "GetApprovedTeamMemberById",
+    "RelativePath": "api/Home/GetApprovedTeamMemberById",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OTA_Portal_Service.Controllers.HomeController",
+    "Method": "GetApprovedTestimonies",
+    "RelativePath": "api/Home/GetApprovedTestimonies",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OTA_Portal_Service.Controllers.HomeController",
+    "Method": "GetApprovedTestimoniesById",
+    "RelativePath": "api/Home/GetApprovedTestimoniesById",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OTA_Portal_Service.Controllers.HomeController",
+    "Method": "GetApprovedVision",
+    "RelativePath": "api/Home/GetApprovedVision",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OTA_Portal_Service.Controllers.HomeController",
+    "Method": "GetApprovedVisionById",
+    "RelativePath": "api/Home/GetApprovedVisionById",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OTA_Portal_Service.Controllers.HomeController",
+    "Method": "GetBlogsAndNewsById",
+    "RelativePath": "api/Home/GetBlogsAndNewsById",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OTA_Portal_Service.Controllers.HomeController",
+    "Method": "GetContactUsById",
+    "RelativePath": "api/Home/GetContactUsById",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OTA_Portal_Service.Controllers.HomeController",
+    "Method": "GetGoalsById",
+    "RelativePath": "api/Home/GetGoalsById",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OTA_Portal_Service.Controllers.HomeController",
+    "Method": "GetMissionById",
+    "RelativePath": "api/Home/GetMissionById",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OTA_Portal_Service.Controllers.HomeController",
+    "Method": "GetRulById",
+    "RelativePath": "api/Home/GetRulById",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OTA_Portal_Service.Controllers.HomeController",
+    "Method": "GetServiceById",
+    "RelativePath": "api/Home/GetServiceById",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OTA_Portal_Service.Controllers.HomeController",
+    "Method": "GetSlidesById",
+    "RelativePath": "api/Home/GetSlidesById",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OTA_Portal_Service.Controllers.HomeController",
+    "Method": "GetTeamMemberById",
+    "RelativePath": "api/Home/GetTeamMemberById",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OTA_Portal_Service.Controllers.HomeController",
+    "Method": "GetTestimonyById",
+    "RelativePath": "api/Home/GetTestimonyById",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OTA_Portal_Service.Controllers.HomeController",
+    "Method": "GetVisionById",
+    "RelativePath": "api/Home/GetVisionById",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OTA_Portal_Service.Controllers.HomeController",
+    "Method": "UpdateBlogsAndNew",
+    "RelativePath": "api/Home/UpdateBlogsAndNew",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "userRole",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "title",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "localTitle",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Description",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "localDescription",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "imageUrl",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "image",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      },
+      {
+        "Name": "dates",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      },
+      {
+        "Name": "status",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OTA_Portal_Service.Controllers.HomeController",
+    "Method": "UpdateBlogsAndNews",
+    "RelativePath": "api/Home/UpdateBlogsAndNews",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "goalGetDto",
+        "Type": "OTA_Portal_Service.Models.DTOs.goalGetDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OTA_Portal_Service.Controllers.HomeController",
+    "Method": "UpdateMission",
+    "RelativePath": "api/Home/UpdateMission",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "missionGetDto",
+        "Type": "OTA_Portal_Service.Models.DTOs.missionGetDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OTA_Portal_Service.Controllers.HomeController",
+    "Method": "UpdateRules",
+    "RelativePath": "api/Home/UpdateRules",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "ruleGetDto",
+        "Type": "OTA_Portal_Service.Models.DTOs.RuleGetDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OTA_Portal_Service.Controllers.HomeController",
+    "Method": "UpdateService",
+    "RelativePath": "api/Home/UpdateService",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "title",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "localTitle",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Description",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "localDescription",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "logo",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      },
+      {
+        "Name": "logopath",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "status",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OTA_Portal_Service.Controllers.HomeController",
+    "Method": "UpdateSlides",
+    "RelativePath": "api/Home/UpdateSlides",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "title",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "localTitle",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Description",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "localDescription",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "image",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      },
+      {
+        "Name": "imagePath",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "status",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OTA_Portal_Service.Controllers.HomeController",
+    "Method": "UpdateTeamMember",
+    "RelativePath": "api/Home/UpdateTeamMember",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "fullName",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "localFullName",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "position",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "localPosition",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "status",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "image",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      },
+      {
+        "Name": "imageUrl",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OTA_Portal_Service.Controllers.HomeController",
+    "Method": "UpdateTestimonies",
+    "RelativePath": "api/Home/UpdateTestimonies",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "fullName",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "position",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Description",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "image",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      },
+      {
+        "Name": "imageUrl",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "status",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "localDescription",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "localFullName",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "localPosition",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OTA_Portal_Service.Controllers.HomeController",
+    "Method": "UpdateVision",
+    "RelativePath": "api/Home/UpdateVision",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "visionGetDto",
+        "Type": "OTA_Portal_Service.Models.DTOs.VisionGetDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OTA_Portal_Service.Controllers.TraineeController",
+    "Method": "AddTrainee",
+    "RelativePath": "api/Trainee/AddTrainee",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "personalProfilePostDTO",
+        "Type": "OTA_Portal_Service.Models.DTOs.PersonalProfilePostDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

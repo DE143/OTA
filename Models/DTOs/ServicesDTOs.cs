@@ -1,0 +1,25 @@
+﻿namespace OTA_Portal_Service.Models.DTOs
+{
+    public class ServicesPostDTOs
+    {
+
+        public string title { get; set; }
+        public string localTitle { get; set; }
+        public string Description { get; set; }
+        public string localDescription { get; set; }
+        public IFormFile logo { get; set; }
+        public string logopath { get; set; }
+        public string? status { get; set; }
+    }
+    public class ServiceGetDTOs
+    {
+        public int Id { get; set; }
+        public string title { get; set; }
+        public string localTitle { get; set; }
+        public string Description { get; set; }
+        public string localDescription { get; set; }
+        public IFormFile logo { get; set; }
+        public string logopath { get; set; }
+        public string? status { get; set; }
+    }
+}

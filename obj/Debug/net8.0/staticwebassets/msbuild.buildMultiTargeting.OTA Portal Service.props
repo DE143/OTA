@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\OTA Portal Service.props" />
+</Project>

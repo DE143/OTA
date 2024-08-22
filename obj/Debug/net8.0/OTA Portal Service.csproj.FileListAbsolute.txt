@@ -1,0 +1,145 @@
+D:\Oromia\OTA Portal Service\obj\Debug\net8.0\OTA Portal Service.csproj.AssemblyReference.cache
+D:\Oromia\OTA Portal Service\obj\Debug\net8.0\OTA Portal Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Oromia\OTA Portal Service\obj\Debug\net8.0\OTA Portal Service.AssemblyInfoInputs.cache
+D:\Oromia\OTA Portal Service\obj\Debug\net8.0\OTA Portal Service.AssemblyInfo.cs
+D:\Oromia\OTA Portal Service\obj\Debug\net8.0\OTA Portal Service.csproj.CoreCompileInputs.cache
+D:\Oromia\OTA Portal Service\obj\Debug\net8.0\OTA Portal Service.MvcApplicationPartsAssemblyInfo.cs
+D:\Oromia\OTA Portal Service\obj\Debug\net8.0\OTA Portal Service.MvcApplicationPartsAssemblyInfo.cache
+D:\Oromia\OTA Portal Service\bin\Debug\net8.0\appsettings.Development.json
+D:\Oromia\OTA Portal Service\bin\Debug\net8.0\appsettings.json
+D:\Oromia\OTA Portal Service\bin\Debug\net8.0\OTA Portal Service.exe
+D:\Oromia\OTA Portal Service\bin\Debug\net8.0\OTA Portal Service.deps.json
+D:\Oromia\OTA Portal Service\bin\Debug\net8.0\OTA Portal Service.runtimeconfig.json
+D:\Oromia\OTA Portal Service\bin\Debug\net8.0\OTA Portal Service.dll
+D:\Oromia\OTA Portal Service\bin\Debug\net8.0\OTA Portal Service.pdb
+D:\Oromia\OTA Portal Service\bin\Debug\net8.0\AutoMapper.dll
+D:\Oromia\OTA Portal Service\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Oromia\OTA Portal Service\bin\Debug\net8.0\Azure.Core.dll
+D:\Oromia\OTA Portal Service\bin\Debug\net8.0\Azure.Identity.dll
+D:\Oromia\OTA Portal Service\bin\Debug\net8.0\Humanizer.dll
+D:\Oromia\OTA Portal Service\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Oromia\OTA Portal Service\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Oromia\OTA Portal Service\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Oromia\OTA Portal Service\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Oromia\OTA Portal Service\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Oromia\OTA Portal Service\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Oromia\OTA Portal Service\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Oromia\OTA Portal Service\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Oromia\OTA Portal Service\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Oromia\OTA Portal Service\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Oromia\OTA Portal Service\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Oromia\OTA Portal Service\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Oromia\OTA Portal Service\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Oromia\OTA Portal Service\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Oromia\OTA Portal Service\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Oromia\OTA Portal Service\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\Oromia\OTA Portal Service\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Oromia\OTA Portal Service\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Oromia\OTA Portal Service\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Oromia\OTA Portal Service\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Oromia\OTA Portal Service\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Oromia\OTA Portal Service\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Oromia\OTA Portal Service\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Oromia\OTA Portal Service\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Oromia\OTA Portal Service\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Oromia\OTA Portal Service\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Oromia\OTA Portal Service\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Oromia\OTA Portal Service\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Oromia\OTA Portal Service\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Oromia\OTA Portal Service\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Oromia\OTA Portal Service\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Oromia\OTA Portal Service\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Oromia\OTA Portal Service\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Oromia\OTA Portal Service\bin\Debug\net8.0\System.CodeDom.dll
+D:\Oromia\OTA Portal Service\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Oromia\OTA Portal Service\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Oromia\OTA Portal Service\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Oromia\OTA Portal Service\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Oromia\OTA Portal Service\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Oromia\OTA Portal Service\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Oromia\OTA Portal Service\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Oromia\OTA Portal Service\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Oromia\OTA Portal Service\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Oromia\OTA Portal Service\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Oromia\OTA Portal Service\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Oromia\OTA Portal Service\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Oromia\OTA Portal Service\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Oromia\OTA Portal Service\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Oromia\OTA Portal Service\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Oromia\OTA Portal Service\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Oromia\OTA Portal Service\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Oromia\OTA Portal Service\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Oromia\OTA Portal Service\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Oromia\OTA Portal Service\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Oromia\OTA Portal Service\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Oromia\OTA Portal Service\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Oromia\OTA Portal Service\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Oromia\OTA Portal Service\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Oromia\OTA Portal Service\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Oromia\OTA Portal Service\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Oromia\OTA Portal Service\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Oromia\OTA Portal Service\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Oromia\OTA Portal Service\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Oromia\OTA Portal Service\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Oromia\OTA Portal Service\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Oromia\OTA Portal Service\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Oromia\OTA Portal Service\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Oromia\OTA Portal Service\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Oromia\OTA Portal Service\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Oromia\OTA Portal Service\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Oromia\OTA Portal Service\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Oromia\OTA Portal Service\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Oromia\OTA Portal Service\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Oromia\OTA Portal Service\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Oromia\OTA Portal Service\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Oromia\OTA Portal Service\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Oromia\OTA Portal Service\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Oromia\OTA Portal Service\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Oromia\OTA Portal Service\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Oromia\OTA Portal Service\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Oromia\OTA Portal Service\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Oromia\OTA Portal Service\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Oromia\OTA Portal Service\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Oromia\OTA Portal Service\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Oromia\OTA Portal Service\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Oromia\OTA Portal Service\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Oromia\OTA Portal Service\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Oromia\OTA Portal Service\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Oromia\OTA Portal Service\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Oromia\OTA Portal Service\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Oromia\OTA Portal Service\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Oromia\OTA Portal Service\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Oromia\OTA Portal Service\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Oromia\OTA Portal Service\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Oromia\OTA Portal Service\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Oromia\OTA Portal Service\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Oromia\OTA Portal Service\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Oromia\OTA Portal Service\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Oromia\OTA Portal Service\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Oromia\OTA Portal Service\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Oromia\OTA Portal Service\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Oromia\OTA Portal Service\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Oromia\OTA Portal Service\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Oromia\OTA Portal Service\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Oromia\OTA Portal Service\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Oromia\OTA Portal Service\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Oromia\OTA Portal Service\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Oromia\OTA Portal Service\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Oromia\OTA Portal Service\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Oromia\OTA Portal Service\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Oromia\OTA Portal Service\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Oromia\OTA Portal Service\obj\Debug\net8.0\staticwebassets.build.json
+D:\Oromia\OTA Portal Service\obj\Debug\net8.0\staticwebassets.development.json
+D:\Oromia\OTA Portal Service\obj\Debug\net8.0\staticwebassets\msbuild.OTA Portal Service.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Oromia\OTA Portal Service\obj\Debug\net8.0\staticwebassets\msbuild.build.OTA Portal Service.props
+D:\Oromia\OTA Portal Service\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.OTA Portal Service.props
+D:\Oromia\OTA Portal Service\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.OTA Portal Service.props
+D:\Oromia\OTA Portal Service\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Oromia\OTA Portal Service\obj\Debug\net8.0\scopedcss\bundle\OTA Portal Service.styles.css
+D:\Oromia\OTA Portal Service\obj\Debug\net8.0\OTA Port.6057D1D2.Up2Date
+D:\Oromia\OTA Portal Service\obj\Debug\net8.0\OTA Portal Service.dll
+D:\Oromia\OTA Portal Service\obj\Debug\net8.0\refint\OTA Portal Service.dll
+D:\Oromia\OTA Portal Service\obj\Debug\net8.0\OTA Portal Service.pdb
+D:\Oromia\OTA Portal Service\obj\Debug\net8.0\OTA Portal Service.genruntimeconfig.cache
+D:\Oromia\OTA Portal Service\obj\Debug\net8.0\ref\OTA Portal Service.dll
+D:\Oromia\OTA Portal Service\bin\Debug\net8.0\OTA Portal Service.staticwebassets.runtime.json
